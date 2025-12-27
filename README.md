@@ -33,9 +33,9 @@ This portfolio also represents my learning journey in **Accounting and Finance**
 
 This background supports my goal of working on **business-oriented software projects**, such as financial systems, accounting tools, and management applications.
 
-## 📁 Projects
+##  Projects
 
-### 🔹 Project One
+### Project One
 
 **Description:**
 A simple responsive website created using HTML and CSS.
@@ -46,7 +46,7 @@ HTML, CSS
 **Live Demo:**
 🔗 Coming soon
 
-### 🔹 Project Two
+###  Project Two
 
 **Description:**
 A layout-focused project using Flexbox to create a clean design.
@@ -63,9 +63,8 @@ This website can be deployed using:
 
 ## 📬 Contact
 
-* **Email:** [yourname@email.com](mailto:yourname@email.com)
-* **GitHub:** [https://github.com/your-username](https://github.com/your-username)
-* **LinkedIn:** (optional)
+* **Email:** [bushraabdikarim38@email.com](mailto:yourname@email.com)
+* **GitHub:** [https://github.com/BURN](https://github.com/your-username)
 
 ## 📈 Future Improvements
 

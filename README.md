@@ -65,14 +65,3 @@ This website can be deployed using:
 
 * **Email:** [bushraabdikarim38@email.com](mailto:yourname@email.com)
 * **GitHub:** [https://github.com/BURN](https://github.com/your-username)
-
-## 📈 Future Improvements
-
-* Add JavaScript interactivity
-* Dark mode toggle
-* Contact form integration
-* Convert project to React
-* Add finance-related mini projects
-
-
-
